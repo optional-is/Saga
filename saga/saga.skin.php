@@ -27,5 +27,29 @@ class SkinSaga extends SkinTemplate {
 
 }
 
+/**
+ * BaseTemplate class for My Skin skin
+ * @ingroup Skins
+ */
+class SagaTemplate extends BaseTemplate {
+
+	/**
+	 * Outputs the entire contents of the page
+	 */
+	public function execute() {
+		// Suppress warnings to prevent notices about missing indexes in $this->data
+		wfSuppressWarnings();
+
+		$this->html( 'headelement' ); ?>
+
+// [...]
+
+<?php $this->printTrail(); ?>
+</body>
+</html><?php
+		wfRestoreWarnings();
+	}
+
+}
 
 ?>
