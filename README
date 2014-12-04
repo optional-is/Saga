@@ -4,9 +4,4 @@ Frustrated with the lack of good designs for Mediawiki templates, we set off to 
 
 We eat our own dog food and use this template for our own internal wiki.
 
-Created by:
-Brian Suda
-http://suda.co.uk
-
-Bjšrgvin
-http://25greatcircles.com
+To install, drop the folder and two files into the /skins/ directory in mediawiki.
