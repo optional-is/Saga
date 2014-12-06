@@ -5,3 +5,5 @@ Frustrated with the lack of good designs for Mediawiki templates, we set off to 
 We eat our own dog food and use this template for our own internal wiki.
 
 To install, drop the folder and two files into the /skins/ directory in mediawiki.
+
+This is based on the Vector code base.

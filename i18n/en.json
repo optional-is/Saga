@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": ["Brian Suda"]
+	},
+	"skinname-vector": "Saga",
+	"saga-skin-desc": "Minimal Response design",
+	"saga.css": "/* CSS placed here will affect users of the Saga skin */",
+	"saga.js": "/* Any JavaScript here will be loaded for users using the Saga skin */",
+	"saga-action-addsection": "Add topic",
+	"saga-action-delete": "Delete",
+	"saga-action-move": "Move",
+	"saga-action-protect": "Protect",
+	"saga-action-undelete": "Undelete",
+	"saga-action-unprotect": "Change protection",
+	"saga-view-create": "Create",
+	"saga-view-edit": "Edit",
+	"saga-view-history": "View history",
+	"saga-view-view": "Read",
+	"saga-view-viewsource": "View source",
+	"saga-more-actions": "More"
+}

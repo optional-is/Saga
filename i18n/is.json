@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Friðrik Bragi Dýrfjörð",
+			"Maxí",
+			"Snævar",
+			"Ævar Arnfjörð Bjarmason"
+		]
+	},
+	"saga-action-addsection": "Bæta við umræðu",
+	"saga-action-delete": "Eyða",
+	"saga-action-move": "Færa",
+	"saga-action-protect": "Vernda",
+	"saga-action-undelete": "Hætta við eyðingu",
+	"saga-action-unprotect": "Breyta verndunarstigi",
+	"saga-view-create": "Skapa",
+	"saga-view-edit": "Breyta",
+	"saga-view-history": "Breytingaskrá",
+	"saga-view-view": "Lesa",
+	"saga-view-viewsource": "Sýna frumkóða"
+}
